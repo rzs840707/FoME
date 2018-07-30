@@ -1,6 +1,6 @@
 This repository stores the data of FoME.
 
-*FoME/ExecutionData*: 
+*FoME/$projectName$/ExecutionData*: 
 
 The desgined testcase name lists are in the file **$projectName$_testcase_name.txt**.
 
