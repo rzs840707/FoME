@@ -12,9 +12,9 @@ The tree visualization of RTR are in the file **$projectName$_execution_traces.t
 **kieker-*.dat** files are monitored logs for each project.
 
 
-3.*FoME/testcaseNames/**:
+3.*FoME/testcaseNames/*:
 
-The designed testcase lists are in files **$projectname$_testcase_name.txt **.
+The designed testcase lists are in files **$projectname$_testcase_name.txt**.
 
 
 4.*FoME/uncoveredTypes/*:
